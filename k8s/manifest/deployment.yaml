@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: portfolio
-        image: 485626261953.dkr.ecr.ap-south-1.amazonaws.com/shopwave:latest
+        image: 485626261953.dkr.ecr.ap-south-1.amazonaws.com/shopwave:portfolio-v2
         ports:
         - containerPort: 80
